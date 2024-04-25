@@ -71,3 +71,5 @@
 
       ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
       ![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
+
+![snake gif](https://github.com/BonoX23/BonoX23/blob/output/github-contribution-grid-snake.gif)
